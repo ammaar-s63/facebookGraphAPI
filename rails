@@ -1,3 +1,4 @@
-aws:
-  access_key_id: 123
-  secret_access_key: 345
+development:
+  aws:
+    access_key_id: 123
+    secret_access_key: 345
